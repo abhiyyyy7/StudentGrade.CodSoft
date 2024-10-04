@@ -153,6 +153,6 @@ System.out.println("Grade: " + grade);
     <h3>Summary</h3>
     <p>This program is a simple and effective way to calculate a student's grade based on their performance in multiple subjects. It demonstrates fundamental Java concepts such as classes, methods, arrays, loops, and conditional statements.</p>
     <h2>Author</h2>
-    <p>Created by <a href="https://github.com/your-github-username">Abhijeet Behera</a></p>
+    <p>Created by <a href="https://github.com/abhiyyyy7">Abhijeet Behera</a></p>
 </body>
 </html>
